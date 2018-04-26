@@ -38,7 +38,7 @@ a {
   font-weight: bold;
 }
 
-#{
-  font-size: 18px;
-  color: white;
+#copyright {
+  text-align: left;
+  background-color: dimgray;
 }
